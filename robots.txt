@@ -1,0 +1,8 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://onufeoha.github.io/HEw/sitemap_index.txt.gz
+Sitemap: https://onufeoha.github.io/XZK/sitemap_index.txt.gz
+Sitemap: https://onufeoha.github.io/mCS/sitemap_index.txt.gz
+Sitemap: https://onufeoha.github.io/tSx/sitemap_index.txt.gz
+Sitemap: https://onufeoha.github.io/wvi/sitemap_index.txt.gz
